@@ -20,10 +20,6 @@ I have included a rough "how-to" guide explaining what you would need to use to 
 #### Missing NFC Files:
 - None reported
 
-#### Problems to Fix:
-- Looking into Ganondorf/Link/Zelda (TotK) are reportedly not working.
-
-------------
 
 
 ### In the Works:
